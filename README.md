@@ -1,12 +1,12 @@
 # Startpage
 
-[Live Preview](https://kencx.github.io/startpage/)
+[Live Preview](https://naturbrilian.github.io/startpage/)
 
 Feel free to fork and make your own changes!
 
 - Font: Noto Sans
 - Colorscheme: Catppuccin Frappe Mauve
-- Cat Gif: [Here](https://twitter.com/avogado6/status/1165595520967954432?s=19)
+- Character in Preview: Arimura Romi from アインシュタインより愛を込めて
 
-![startpage](startpage.gif)
+![startpage](startpage.png)
 
