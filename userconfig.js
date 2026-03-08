@@ -17,7 +17,7 @@ const default_config = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-01.jpg",
+      background_url: "src/img/banners/cbg-16.jpg",
       categories: [
         {
           name: "translation",
@@ -110,7 +110,7 @@ const default_config = {
     },
     {
       name: "dev",
-      background_url: "src/img/banners/cbg-02.jpg",
+      background_url: "src/img/banners/cbg-01.jpg",
       categories: [
         {
           name: "development",
